@@ -1,5 +1,7 @@
 # Hola 😊 Soy Josué Turpo
-Desarrollador FullStack.
+Desarrollador FullStack. 
+![Si deseas, visita mi sitio web.](https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif)
+[josueturpo.com](https://dev.josueturpo.com/)
 
 ## Sobre mi ✍️
 Actualmente estoy estudiando Ing. Software; me encanta el café ☕ y las hamburguesas 🍔 al momento de programar.
@@ -22,37 +24,13 @@ Actualmente estoy estudiando Ing. Software; me encanta el café ☕ y las hambur
 [Tiktok](https://tiktok.com/@xosueturpo/)
 [Youtube](https://youtube.com/xosue_turpo/)
 
-```php
-<?php
+`El verdadero amor es real (o al menos hasta que llegue un nuevo framework.)` 🤙😄
 
-function amorPorLaProgramacion($codigo) {
-    // Iniciamos el romance
-    $corazon = "❤️";
-    $pasión = "programación";
-
-    // Proclamamos nuestro amor
-    echo "Cada línea de código es un verso en nuestra poesía de amor por la {$pasión}.\n";
-
-    // Añadimos un toque de ironía
-    $preparativos = [
-        "comprar café",
-        "escribir hasta que los dedos duelan",
-        "ignorar la vida social",
-        "hablar con el compilador como si fuera tu terapeuta"
-    ];
-
-    foreach ($preparativos as $preparativo) {
-        echo "No olvides {$preparativo} para que este romance funcione.\n";
-    }
-
-    // El verdadero amor es eterno (o al menos hasta que salga un nuevo framework)
-    $destino = "código perfecto";
-    echo "Al final del día, nuestro amor nos lleva hacia el {$destino}.\n";
-
-    // Un último toque de ternura
-    return "Y aunque el debugger se interponga, nunca dejaré de amarte, {$codigo}!";
+```bash
+function expresar_amor() {
+    echo "💖 Programar es mi lenguaje del amor."
+    echo "☕ Café: elixir de la creatividad."
+    echo "🐞 Cada bug es solo un nuevo desafío."
 }
 
-// Usamos la función con un mensaje de amor
-echo amorPorLaProgramacion("mi querido código");
-?>
+expresar_amor
