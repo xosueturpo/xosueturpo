@@ -20,16 +20,16 @@ Desarrollador FullStack. [josueturpo.com](https://dev.josueturpo.com/)
 | SQL         |                           |
 
 ## Actualmente estoy aprendiendo
-1. c++
-2. java
+1. C++
+2. Java
 3. NoSQL
 
 ## Redes 
-[Linkedin](https://www.linkedin.com/in/xosueturpo/)
-[Facebook](https://facebook.com/xosueturpo/)
-[Instagram](https://instagram.com/xosueturpo/)
-[Tiktok](https://tiktok.com/@xosueturpo/)
-[Youtube](https://youtube.com/xosue_turpo/)
+[Linkedin](https://www.linkedin.com/in/xosueturpo/)  
+[Facebook](https://facebook.com/xosueturpo/)  
+[Instagram](https://instagram.com/xosueturpo/)  
+[Tiktok](https://tiktok.com/@xosueturpo/)  
+[Youtube](https://youtube.com/xosue_turpo/)  
 
 `El verdadero amor es real (o al menos hasta que llegue un nuevo framework.)` 🤙😄
 
