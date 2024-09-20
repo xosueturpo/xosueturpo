@@ -3,7 +3,8 @@ Desarrollador FullStack. [josueturpo.com](https://dev.josueturpo.com/)
 ![Si deseas, visita mi sitio web.](https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif)
 
 ## Sobre mi ✍️
-Actualmente estoy estudiando Ing. Software; me encanta el café ☕ y las hamburguesas 🍔 al momento de programar.
+- Actualmente estoy estudiando Ing. Software.
+- Me encanta el café ☕ y las hamburguesas 🍔 al momento de programar.
 
 ## Tecnologías 🖥️
 | Lenguaje    | Frameworks/Entornos       |
@@ -15,6 +16,12 @@ Actualmente estoy estudiando Ing. Software; me encanta el café ☕ y las hambur
 | Python      | Tkinter                   |
 |             | Django                    |
 | Flutter     |                           |
+| SQL         |                           |
+
+## Actualmente estoy aprendiendo
+1. c++
+2. java
+3. NoSQL
 
 ## Redes 
 [Linkedin](https://www.linkedin.com/in/xosueturpo/)
