@@ -1,7 +1,6 @@
 # Hola 😊 Soy Josué Turpo
-Desarrollador FullStack. 
+Desarrollador FullStack. [josueturpo.com](https://dev.josueturpo.com/)  
 ![Si deseas, visita mi sitio web.](https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif)
-[josueturpo.com](https://dev.josueturpo.com/)
 
 ## Sobre mi ✍️
 Actualmente estoy estudiando Ing. Software; me encanta el café ☕ y las hamburguesas 🍔 al momento de programar.
