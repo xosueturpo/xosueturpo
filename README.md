@@ -1,6 +1,6 @@
 # Hola 😊 Soy Josué Turpo
 Desarrollador FullStack. [josueturpo.com](https://dev.josueturpo.com/)  
-<img src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif" alt="Descripción de la imagen" width="300"/>
+<img src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif" alt="Descripción de la imagen" width="100"/>
 
 
 ## Sobre mi ✍️
