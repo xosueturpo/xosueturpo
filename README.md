@@ -29,39 +29,10 @@ Trabajo con proyectos que van desde APIs y frontends web hasta apps móviles en 
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| Web | HTML, CSS, JavaScript/TypeScript, frameworks fullstack según proyecto |
+| Web | HTML, CSS, JavaScript/TypeScript, Angular, Laravel |
 | Mobile | Flutter, Dart, Kotlin, Android SDK |
 | IoT (aprendizaje) | ESP32, Arduino, BLE, WiFi, UART, sensores y actuadores |
-| Herramientas | Git, GitHub, Android Studio, Arduino IDE |
-
----
-
-## Proyecto en curso — Inodoro Smart
-
-Prototipo IoT de aprendizaje: sistema de control para inodoro inteligente con tres capas.
-
-```mermaid
-flowchart LR
-  App["App Flutter"]
-  ESP["ESP32\nBLE + WiFi"]
-  UNO["Arduino UNO\nServos + sensores"]
-
-  App --> ESP --> UNO
-```
-
-| Capa | Tecnología | Función |
-|------|------------|---------|
-| Aplicación | Flutter | Control remoto, voz, conexión BLE/LAN, modo demo |
-| Comunicaciones | ESP32 | Puente BLE/HTTP entre la app y el hardware |
-| Control físico | Arduino UNO | Válvulas, tapa, recarga, lectura de sensores |
-
-Aspectos técnicos del proyecto:
-
-- Conexión por Bluetooth LE (provisioning WiFi) y por red local (mDNS + HTTP)
-- Comandos de descarga, recarga y control de tapa
-- Comandos de voz con clasificación local y respaldo con Gemini
-- Firmware no bloqueante en el loop principal del Arduino
-- Modo demo en la app para probar la interfaz sin hardware
+| Herramientas | GitHub, Android Studio, Git |
 
 ---
 
