@@ -9,7 +9,7 @@
 
 # José Luis Turpo Quispe
 
-Desarrollador **web fullstack** y de **aplicaciones multiplataforma** (Flutter y Android nativo con Kotlin). En paralelo estoy aprendiendo **IoT** y **prototipado con ESP32**, conectando firmware embebido con interfaces móviles y servicios web.
+Desarrollador **web fullstack** y de **aplicaciones multiplataforma** (Flutter y Android nativo con Kotlin). Tengo varios **ecommerce en producción** y **aplicativos multiplataforma en desarrollo**. En paralelo aprendo **IoT** y **prototipado con ESP32**.
 
 ---
 
@@ -18,10 +18,11 @@ Desarrollador **web fullstack** y de **aplicaciones multiplataforma** (Flutter y
 | Área | Enfoque |
 |------|---------|
 | Principal | Desarrollo web fullstack |
-| Mobile | Apps multiplataforma con Flutter; Android nativo con Kotlin |
-| En aprendizaje | IoT, prototipado con ESP32, integración hardware–software |
+| En producción | Varios ecommerce web (Angular, Laravel) |
+| En desarrollo | Aplicativos multiplataforma (Flutter, Kotlin) |
+| En aprendizaje | IoT, prototipado con ESP32 |
 
-Trabajo con proyectos que van desde APIs y frontends web hasta apps móviles en producción. Recientemente amplío el stack hacia dispositivos físicos: sensores, actuadores, BLE/WiFi y comunicación serial entre microcontroladores.
+La mayor parte de mi trabajo activo está en repositorios privados: tiendas online ya desplegadas y apps móviles en construcción. En GitHub solo **inodoro_inteligente** es público; el resto del portafolio (más de seis repos) permanece privado por ser proyectos de clientes o productos en curso.
 
 ---
 
@@ -38,10 +39,13 @@ Trabajo con proyectos que van desde APIs y frontends web hasta apps móviles en 
 
 ## Repositorios
 
-| Proyecto | Descripción |
-|----------|-------------|
-| **inodoro_inteligente** | App Flutter + firmware IoT (ESP32 / Arduino UNO) |
-| *—* | *Añadir otros repos aquí* |
+| Visibilidad | Proyecto | Descripción |
+|-------------|----------|-------------|
+| Público | **inodoro_inteligente** | App Flutter + firmware IoT (ESP32 / Arduino UNO) |
+| Privado | Ecommerce web (varios) | Tiendas online en producción — Angular, Laravel |
+| Privado | Apps multiplataforma (varios) | Aplicativos móviles en desarrollo — Flutter, Kotlin |
+
+En total hay más de seis repositorios privados además del público. No aparecen listados aquí por confidencialidad del cliente y del producto.
 
 ---
 
